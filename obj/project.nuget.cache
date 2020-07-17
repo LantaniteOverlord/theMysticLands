@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KUPNPvVptRk4H9W+jYvmRZu5OMbJkRq0FVI+j9G166zY2n1B7PI2qDhgU7HiH/Ru2oqXof5xbAMnGEAl7wm64Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucie\\Documents\\My Games\\Terraria\\Modloader\\Mod Sources\\TheMysticLands\\TheMysticLands.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucie\\.nuget\\packages\\tmodloader.codeassist\\0.1.1\\tmodloader.codeassist.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

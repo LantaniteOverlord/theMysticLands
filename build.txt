@@ -1,0 +1,5 @@
+displayName = The Mystic Lands
+author = lantanite overlord
+version = 0.3
+hide code = false
+includesource = true

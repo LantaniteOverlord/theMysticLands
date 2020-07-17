@@ -1,0 +1,30 @@
+yo
+
+play crimson world or have imk sushis mod and fargos mutant mod enabled
+
+version 0.1
+-added Death eater sword
+-added-soul eater
+-added broken soul eater
+-added lantanite bar
+-added lantanite brick
+
+version 0.2
+-added blood moons edge
+-added cat gun
+-added gun form 1 to gin form 6
+
+-changed death eater sword recipe to include bloodmoons edge
+-changed soul eater to include star wrath
+
+-fixed lantanite brick
+
+version 0.3
+-added Lantanite zombie
+-added Lantanite Broadsword
+
+-changed soul eater sprite
+
+
+things that need to be implemented
+-soul eater healing the player
